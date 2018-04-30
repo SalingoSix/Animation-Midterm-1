@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\learnopengl\opengltutorial01\opengltutorial01\main.cpp(510): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\learnopengl\opengltutorial01\opengltutorial01\main.cpp(558): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\learnopengl\opengltutorial01\opengltutorial01\main.cpp(593): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\learnopengl\opengltutorial01\opengltutorial01\main.cpp(594): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\learnopengl\opengltutorial01\opengltutorial01\main.cpp(598): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\learnopengl\opengltutorial01\opengltutorial01\main.cpp(599): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\learnopengl\opengltutorial01\opengltutorial01\main.cpp(600): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\learnopengl\opengltutorial01\opengltutorial01\main.cpp(601): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\learnopengl\opengltutorial01\opengltutorial01\main.cpp(608): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLTutorial01.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\LearnOpenGL\OpenGLTutorial01\Debug\OpenGLTutorial01.exe

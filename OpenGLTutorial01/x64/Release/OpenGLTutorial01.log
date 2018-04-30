@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (OpenGLTutorial01.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+main.cpp(73): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+main.cpp(256): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(532): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(533): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(537): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(538): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(539): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(540): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(547): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1 of 1741 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_DXT.obj)' or at 'C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Animation\Midterm\x64\Release\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_helper.obj)' or at 'C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Animation\Midterm\x64\Release\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(SOIL2.obj)' or at 'C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Animation\Midterm\x64\Release\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(stb_image_write.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(stb_image_write.obj)' or at 'C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Animation\Midterm\x64\Release\soil2-debug.pdb'; linking object as if no debug info
+  OpenGLTutorial01.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Animation\Midterm\x64\Release\Project 1.exe
